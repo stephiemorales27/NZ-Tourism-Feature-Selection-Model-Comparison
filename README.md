@@ -1,5 +1,4 @@
 # NZ-Tourism-Feature-Selection-Model-Comparison
-
 An independently developed regression case study predicting total visitor spend in New Zealand's tourism industry, covering the full applied machine learning workflow from business understanding to model optimization and evaluation.
 
 ## Overview
@@ -9,6 +8,10 @@ This project was completed as Task 1 for the "Implementación de IA en Caso de N
 ## Note on Code Attribution
 
 The dataset and case topic were self-selected as part of a course assignment that required choosing a real-world dataset and business problem. The full pipeline — business framing, EDA, data cleaning, feature engineering, feature selection, modeling, and evaluation — was independently designed and implemented by me.
+
+## Dataset
+
+This project uses the [NZ Tourism Dataset 2025](https://www.kaggle.com/datasets/digitalashish/nz-tourism-dataset-2024/data) from Kaggle, originally sourced from Stats NZ / data.govt.nz tourism forecast data. The raw dataset is not included in this repository — download it directly from Kaggle to reproduce the analysis.
 
 ## Business Problem
 
