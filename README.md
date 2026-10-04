@@ -34,5 +34,5 @@ New Zealand's tourism industry is a major contributor to the national economy. T
 
 ## Author
 
-Stephanie Morales
-[linkedin.com/in/smoralesvillalobos](https://linkedin.com/in/smoralesvillalobos)
+Stephanie Morales  
+[LinkedIn Profile](https://linkedin.com/in/smoralesvillalobos)
