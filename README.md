@@ -44,9 +44,6 @@ Small dataset (314 rows with target) and a single temporal split, so results may
 * Databricks
 * MLflow
 
-## Files
-
-* `NZ_Tourism_Feature_Selection_Analysis.ipynb` — full notebook with outputs
 
 ## Author
 
