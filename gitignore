@@ -1,0 +1,2 @@
+Ignore MLflow experiment artifacts
+mlruns/ nz_tourism_feature_selection/ *.mlmodel
